@@ -1,6 +1,6 @@
 """
 Weather Data Visualizer - Programming for Problem Solving Assignment
-Student: Kartik Sharma
+Student:Jyoti Sharma
 Dataset: Daily Delhi Climate (Kaggle) [https://www.kaggle.com/datasets/sukhmandeepsinghbrar/daily-delhi-climate](https://www.kaggle.com/datasets/sukhmandeepsinghbrar/daily-delhi-climate)
 """
 
@@ -114,3 +114,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
